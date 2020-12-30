@@ -9,8 +9,9 @@ c++
 
 ### To Use:
 
-* `git clone https://github.com/gamblinflanagan/shapes/`
-* `run the file shapes.cpp in any python IDE`
+* Open a terminal shell and navigate to the desired directory 
+* `git clone https://github.com/gamblinflanagan/shapes.git`
+* `run the file shapes.cpp in any c++ IDE`
 
 ### To Run In Linux/Unix Command Line:
 
